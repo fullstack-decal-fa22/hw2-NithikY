@@ -184,7 +184,8 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  /* TODO */
+  display: flex;
+  padding: 90px 100px 90px 100px
 }
 
 .label:hover{
